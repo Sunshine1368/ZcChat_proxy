@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore API keys
+api.txt
+
+# Ignore log files
+*.log
+
+# Other sensitive files
+.env
+credentials.json
